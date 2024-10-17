@@ -9,6 +9,7 @@
 
 - [ ] [Jak zaklimatyzować się na serwerze?](https://forum.hapel.pl/d/49-jak-zaklimatyzowac-sie-na-serwerze)
   - Opiekun Pomocników jest `@Naruse`
+  - Lista tutorów.
 
 - [ ] [Część 2 - Tworzenie karty postaci](https://forum.hapel.pl/d/33-czesc-2-tworzenie-karty-postaci)
   - Przedawnione; dla nowych graczy jest tutorial. Podobno z dorkami.
@@ -72,8 +73,6 @@
 
 - [ ] [Sklepy na Pokątnej](https://forum.hapel.pl/d/2012-sklepy-na-pokatnej)
 
-- [ ] []()
-
 ### Postanowienia
 
 - [ ] [Postanowienie #1 - NPC oraz postacie IC](https://forum.hapel.pl/d/57-postanowienie-1-npc-oraz-postacie-ic)
@@ -106,7 +105,7 @@
   - Do zaktualizowania, opiekunowi outdated. 
 
 - [ ] [Lista dozwolonych stworzeń do odgrywania](https://forum.hapel.pl/d/32-lista-dozwolonych-stworzen-do-odgrywania)
-    - Do zweryfikowania przez Noelkę.
+    - Do zweryfikowania przez Noelkę. (?)
 
 - [ ] [Wzór karty postaci ucznia](https://forum.hapel.pl/d/26-wzor-karty-postaci-ucznia)
   - Do sprawdzenia.
@@ -118,4 +117,11 @@
   - Do sprawdzenia.
 
 - [ ] [Wzór karty postaci stworzenia](https://forum.hapel.pl/d/30-wzor-karty-postaci-stworzenia)
-  - Do sprawdzenia przez Noelkę.
+  - Do sprawdzenia przez Noelkę. (?)
+
+## OOC
+
+### Poradniki
+
+- [ ] [Spis komend](https://forum.hapel.pl/d/54-spis-komend)
+  - Przedawnione. Są nowe komendy.
